@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "purple",
   "start_url": "/a2hs0/index.html"
 }
